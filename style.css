@@ -1,0 +1,10 @@
+canvas {
+	border: 1px solid black;
+	display: block;
+	margin: 0 auto;
+}
+
+.canvas-font-hack {
+	font-family: 'Press Start 2P'; 
+	visibility: hidden;
+}
